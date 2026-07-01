@@ -1,12 +1,12 @@
 <!--
-  ╔══════════════════════════════════════════════╗
-  ║        TOKKYO`S JZ MULTI TOOL · COLOR        ║
-  ╚══════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════╗
+  ║            TOKKYO`S JZ MULTI TOOL · COLORFUL         ║
+  ╚══════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,6,20&height=220&section=header&text=Tokkyo%60s%20jz%20Multi%20Tool&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Tokkyo%60s%20jz%20Multi%20Tool&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=40" />
 
 <br><br>
 
@@ -14,6 +14,6 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,6,30,24,12&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" />
 
 </div>
